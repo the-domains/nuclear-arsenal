@@ -1,0 +1,28 @@
+name: Nuclear Arsenal
+favicon: null
+layout_spectrum: 0.3044592912774533
+typography_spectrum: 0.39634775975719094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5344629234168679
+  lightness: 0.19476493122056127
+  saturation: 0.05667828395962715
+  rhythmicContrast: 0.6060975105501711
+purpose: []
