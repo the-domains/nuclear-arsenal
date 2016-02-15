@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Nuclear Arsenal]]></title>
         <description><![CDATA[Nuclear Arsenal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nuclear-arsenal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 04:55:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 04:55:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nuclear-arsenal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f41f699-e98e-40c4-a3eb-228e41188996.jpg">]]></description>
+            <link>https://thegrid.ai/nuclear-arsenal/45502e3d-8b8f-40bb-b7d5-be316fe26991/index.html</link>
+            <guid isPermaLink="false">45502e3d-8b8f-40bb-b7d5-be316fe26991</guid>
+            <pubDate>Mon, 15 Feb 2016 04:55:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80fbf13ba0c67478860094ecee18f629e261acdb.jpg" alt="" title="">]]></description>
-            <link>undefined16cae2fb-6383-4eef-86d3-66815e1399ca/index.html</link>
+            <link>https://thegrid.ai/nuclear-arsenal/16cae2fb-6383-4eef-86d3-66815e1399ca/index.html</link>
             <guid isPermaLink="false">16cae2fb-6383-4eef-86d3-66815e1399ca</guid>
             <pubDate>Mon, 15 Feb 2016 04:55:25 GMT</pubDate>
         </item>
